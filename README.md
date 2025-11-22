@@ -1,6 +1,6 @@
 # Sentiment Analysis App 🎭📊
 
-A React-based Sentiment Analysis application that detects the sentiment of user-provided text using a Hugging Face pre-trained model. The app displays the sentiment as Positive, Negative, or Neutral, along with a confidence score.
+A React-based Sentiment Analysis application that detects the sentiment of user-provided text using a Hugging Face pre-trained model. The app displays the sentiment as Positive, Negative, along with a confidence score.
 
 The UI is designed to be bold, modern, and visually appealing, featuring a card-style layout, gradient backgrounds, and color-coded results.
 
